@@ -13,7 +13,7 @@ Try to get the two flags! Root the machine and prove your understanding of the f
 
 We start with a normal nmap scan for all ports.
 
-![image-20251127174356073](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20251127174356073.png)
+![image-20251127174356073](./assets/image-20251127174356073.png)
 
 Now we can answer most of the questions in the task. And let's try the smbclient since the task asked us for a share name.
 
@@ -70,4 +70,5 @@ We find an interesting thing. /usr/bin/env is here. We search on GTFO bins and n
 Now we are root.
 
 Thanks for reading.
+
 
